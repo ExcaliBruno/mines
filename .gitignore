@@ -2,8 +2,7 @@
 
 # dependencies
 node_modules/
-# personalizations
-.vscode/
+
 # Expo
 .expo/
 dist/
